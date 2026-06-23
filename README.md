@@ -1,10 +1,42 @@
 # STEM Cyber Sandbox
 
+![STEM Cyber Sandbox](docs/images/stem-cyber-sandbox.png)
+
 A browser-based cybersecurity training lab that demonstrates how traditional web application attacks relate to modern AI security threats.
 
 This project uses **Docker**, **Flask**, and **SQLite** to provide a safe, self-contained environment for exploring authentication flaws, SQL Injection, Prompt Injection, secure coding practices, and cybersecurity fundamentals without requiring Kali Linux, Metasploit, or virtual machines.
 
 Designed for **STEM educators, cybersecurity instructors, and students**, the lab highlights the evolution of attacks from database manipulation to AI instruction manipulation while emphasizing responsible use, defensive programming, and critical thinking.
+
+---
+
+## Quick Start
+
+### Clone
+
+```bash
+
+git clone https://github.com/cce-cmd/stem-cyber-sandbox.git
+
+cd stem-cyber-sandbox
+
+```
+
+### Launch
+
+```bash
+
+docker compose up --build
+
+```
+
+### Open
+
+```text
+
+http://localhost:5050
+
+```
 
 ---
 
