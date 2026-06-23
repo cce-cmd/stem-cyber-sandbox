@@ -1,6 +1,6 @@
 # STEM Cyber Sandbox
 
-![STEM Cyber Sandbox](docs/images/stem-cyber-sandbox.png)
+![STEM Cyber Sandbox](docs/images/demo.png)
 
 A browser-based cybersecurity training lab that demonstrates how traditional web application attacks relate to modern AI security threats.
 
